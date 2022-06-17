@@ -1,4 +1,4 @@
-# PythonIfElse
+# PythonIfElifElse
 Basic If elif else statement with Python
 
 - Practice coding using if elif else
